@@ -121,10 +121,4 @@
     color:#fff;
    }
 
-   @media screen and (min-width: 768px){
-    .ul {display:flex;}
-    .header-button{width:auto;}
-    .bottom-button{width:auto;}
-   }
-
-   
+ 
